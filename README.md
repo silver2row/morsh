@@ -75,12 +75,13 @@
 
        <!-- ------------------------ -->
        
-   6. claat export writing_codelabs.md
+       6. claat export writing_codelabs.md
 
 ### This has been brought to you by me and the fellow that produced the info...
 
     1. If you want to see the morphing.jpg, please place the photo in
-       /site/codelabs/assets/
+       /site/codelabs/assets/ and actually have a photo called morphing.jpg in assets like this...
+       /site/codelabs/assets/morphing.jpg.
 
     2. go into the codelabs dir. and type claat export writing_codelabs.md
 
