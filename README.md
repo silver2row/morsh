@@ -25,6 +25,8 @@
 
     3. export PATH=$PATH:$HOME/go/bin
 
+    ` If you are having trouble after shutting down your machine w/ claat, repeat step 3. from above... `
+
     4. if chosen, move claat to $HOME/go/bin
 
     5. make claat executable with chmod u+x claat in the claat dir.
