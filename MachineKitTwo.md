@@ -8,9 +8,9 @@ authors: Seth
 ## Making MachineKit Work for the BBB/BBBW with LCD Cape...
 Duration: 1
 
-### Find the repos. here: https://cloudsmith.io/~mahinekit/repos/
+- Find the repos. here: https://cloudsmith.io/~mahinekit/repos/
 
-#### First, we install the repos...
+## First, we install the repos...
 Duration: 2
 
 1. curl -1sLf \
@@ -25,9 +25,10 @@ Duration: 2
   'https://dl.cloudsmith.io/public/machinekit/emcapplication/setup.deb.sh' \
   | sudo -E bash
 
-## Then, sudo apt update
+## Then, update the BBB!
 Duration: 3
 
+- Firstly... `sudo apt update`
 - Then... `sudo apt install machinekit-hal=0.4.20868-1.gitc2e248500~buster`
 - Next... `sudo apt install emcapplication=0.4.20868-1.gitc2e248500~buster`
 
