@@ -8,7 +8,7 @@ authors: Seth
 ## Making MachineKit Work for the BBB/BBBW with LCD Cape...
 Duration: 1
 
-- Find the repos. here: https://cloudsmith.io/~mahinekit/repos/
+- Find the repos. here: https://cloudsmith.io/~machinekit/repos/
 
 ## First, we install the repos...
 Duration: 2
